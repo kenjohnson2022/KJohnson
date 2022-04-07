@@ -38,7 +38,11 @@
         
         // example: 
         createCollectable(type.steve, 200, 170, 6, 0.7);
-        
+        type.dp / worth20points
+        type.max/ worth30points
+        type.steve/ worth40points
+        type.grace/ worth50points
+        type.kennedi/ worth60points
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
